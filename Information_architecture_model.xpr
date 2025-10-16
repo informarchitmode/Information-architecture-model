@@ -14371,14 +14371,6 @@ self::*[contains(@class," map/reltable ")]][1]
                         <documentTypeEntry-array>
                             <documentTypeEntry>
                                 <field name="documentTypeID">
-                                    <String>2/internal/DITA - Copy</String>
-                                </field>
-                                <field name="enable">
-                                    <Boolean>false</Boolean>
-                                </field>
-                            </documentTypeEntry>
-                            <documentTypeEntry>
-                                <field name="documentTypeID">
                                     <String>6/dita/dita.framework/DITA</String>
                                 </field>
                                 <field name="enable">
