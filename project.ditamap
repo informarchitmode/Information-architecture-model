@@ -28,10 +28,10 @@
                 <topicref href="Products/Applications_module/topics/app_component_2.dita"/>
                 <topicref href="Products/Applications_module/topics/app_component_3.dita"/>
             </topicref>
-            <topicref href="Products/stem_topics/dbos_stem.dita"/>
-            <topicref href="Products/stem_topics/workspace_for_employees_stem.dita"/>
-            <topicref href="Products/stem_topics/internet_banking_for_corporate_clients_stem.dita"/>
-            <topicref href="Products/stem_topics/internet_banking_for_private_clients.dita"/>
         </topicref>
+        <topicref href="Products/stem_topics/dbos_stem.dita"/>
+        <topicref href="Products/stem_topics/workspace_for_employees_stem.dita"/>
+        <topicref href="Products/stem_topics/internet_banking_for_corporate_clients_stem.dita"/>
+        <topicref href="Products/stem_topics/internet_banking_for_private_clients.dita"/>
     </topicref>
 </map>
