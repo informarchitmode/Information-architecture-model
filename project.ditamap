@@ -23,6 +23,11 @@
                 <topicref href="Products/DBOS_module/topics/feature_component_2.dita"/>
                 <topicref href="Products/DBOS_module/topics/feature_component_3.dita"/>
             </topicref>
+            <topicref href="Products/Applications_module/stem_topics/applications_module_stem.dita">
+                <topicref href="Products/Applications_module/topics/app_component_1.dita"/>
+                <topicref href="Products/Applications_module/topics/app_component_2.dita"/>
+                <topicref href="Products/Applications_module/topics/app_component_3.dita"/>
+            </topicref>
         </topicref>
     </topicref>
 </map>
