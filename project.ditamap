@@ -3,6 +3,9 @@
 <map>
     <title>Digital Banking Concept</title>
     <topicref href="Products/stem_topics/products_stem.dita">
-        <topicref href="Products/stem_topics/digital_banking_concept_stem.dita"/>
+        <topicref href="Products/stem_topics/digital_banking_concept_stem.dita">
+            <topicref
+                href="Products/Infrastructure_module/stem_topics/infrastructure_module_stem.dita"/>
+        </topicref>
     </topicref>
 </map>
