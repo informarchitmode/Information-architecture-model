@@ -11,6 +11,13 @@
                 <topicref href="Products/Infrastructure_module/topics/infra_component_2.dita"/>
                 <topicref href="Products/Infrastructure_module/topics/infra_component_3.dita"/>
             </topicref>
+            <topicref href="Products/Connectors_module/stem_topics/connectors_module_stem.dita">
+                <topicref href="Products/Connectors_module/topics/connectors_list.dita"/>
+                <topicref href="Products/Connectors_module/topics/dbos_input_connectors.dita"/>
+                <topicref href="Products/Connectors_module/topics/dbos_internal_connectors.dita"/>
+                <topicref href="Products/Connectors_module/topics/dbos_component_connectors.dita"/>
+                <topicref href="Products/Connectors_module/topics/dbos_output_connectors.dita"/>
+            </topicref>
         </topicref>
     </topicref>
 </map>
