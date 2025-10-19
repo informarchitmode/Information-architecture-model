@@ -5,7 +5,12 @@
     <topicref href="Products/stem_topics/products_stem.dita">
         <topicref href="Products/stem_topics/digital_banking_concept_stem.dita">
             <topicref
-                href="Products/Infrastructure_module/stem_topics/infrastructure_module_stem.dita"/>
+                href="Products/Infrastructure_module/stem_topics/infrastructure_module_stem.dita">
+                <topicref href="Products/Infrastructure_module/topics/infra_components_list.dita"/>
+                <topicref href="Products/Infrastructure_module/topics/infra_component_1.dita"/>
+                <topicref href="Products/Infrastructure_module/topics/infra_component_2.dita"/>
+                <topicref href="Products/Infrastructure_module/topics/infra_component_3.dita"/>
+            </topicref>
         </topicref>
     </topicref>
 </map>
