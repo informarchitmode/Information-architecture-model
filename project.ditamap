@@ -332,8 +332,23 @@
             <topicref href="Tasks/topics/communication_tasks_2.dita"/>
             <topicref href="Tasks/topics/communication_tasks_3.dita"/>
         </topicref>
-        <topicref href="Tasks/topics/report_and_analysis_tasks.dita"/>
-        <topicref href="Tasks/topics/management_tasks.dita"/>
-        <topicref href="Tasks/topics/dbos_maintenance_tasks.dita"/>
+        <topicref href="Tasks/topics/report_and_analysis_tasks.dita">
+            <topicref href="Tasks/topics/report_and_analysis_tasks_list.dita"/>
+            <topicref href="Tasks/topics/report_and_analysis_tasks_1.dita"/>
+            <topicref href="Tasks/topics/report_and_analysis_tasks_2.dita"/>
+            <topicref href="Tasks/topics/report_and_analysis_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/management_tasks.dita">
+            <topicref href="Tasks/topics/management_tasks_list.dita"/>
+            <topicref href="Tasks/topics/management_tasks_1.dita"/>
+            <topicref href="Tasks/topics/management_tasks_2.dita"/>
+            <topicref href="Tasks/topics/management_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/dbos_maintenance_tasks.dita">
+            <topicref href="Tasks/topics/dbos_maintenance_tasks_list.dita"/>
+            <topicref href="Tasks/topics/dbos_maintenance_tasks_1.dita"/>
+            <topicref href="Tasks/topics/dbos_maintenance_tasks_2.dita"/>
+            <topicref href="Tasks/topics/dbos_maintenance_tasks_3.dita"/>
+        </topicref>
     </topicref>
 </map>
