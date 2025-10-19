@@ -94,7 +94,66 @@
                 />
             </topicref>
         </topicref>
-        <topicref href="Workspaces_to_handle_tasks/topics/task_specific_ui_widget_or_page.dita"/>
+        <topicref
+            href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/task_specific_ui_widget_or_page.dita">
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/tasks_ui_list.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/admin_tasks_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/admin_tasks_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/admin_tasks_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/admin_tasks_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/admin_tasks_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/security_tasks_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/security_tasks_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/security_tasks_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/security_tasks_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/security_tasks_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/business_tasks_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/business_tasks_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/business_tasks_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/business_tasks_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/business_tasks_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/communication_tasks_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/communication_tasks_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/communication_tasks_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/communication_tasks_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/communication_tasks_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/report_and_analysis_tasks_ui.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/management_tasks_ui.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Task_specific_UI_widget_or_page/topics/dbos_maintenance_tasks_ui.dita"
+            />
+        </topicref>
         <topicref
             href="Workspaces_to_handle_tasks/topics/function_or_step_specific_ui_controles.dita"/>
     </topicref>
