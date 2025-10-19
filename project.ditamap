@@ -18,6 +18,11 @@
                 <topicref href="Products/Connectors_module/topics/dbos_component_connectors.dita"/>
                 <topicref href="Products/Connectors_module/topics/dbos_output_connectors.dita"/>
             </topicref>
+            <topicref href="Products/DBOS_module/stem_topics/dbos_module_stem.dita">
+                <topicref href="Products/DBOS_module/topics/feature_component_1.dita"/>
+                <topicref href="Products/DBOS_module/topics/feature_component_2.dita"/>
+                <topicref href="Products/DBOS_module/topics/feature_component_3.dita"/>
+            </topicref>
         </topicref>
     </topicref>
 </map>
