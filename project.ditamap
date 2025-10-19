@@ -236,12 +236,41 @@
                 />
             </topicref>
             <topicref
-                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/report_and_analysis_operation_functions_ui.dita"/>
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/report_and_analysis_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/raof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/raof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/raof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/raof_ui_3.dita"
+                />
+            </topicref>
             <topicref
-                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/management_operation_functions_ui.dita"/>
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/management_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/mof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/mof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/mof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/mof_ui_3.dita"
+                />
+            </topicref>
             <topicref
-                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_maintenance_operation_functions_ui.dita"
-            />
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_maintenance_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_mof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_mof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_mof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_mof_ui_3.dita"
+                />
+            </topicref>
         </topicref>
     </topicref>
 </map>
