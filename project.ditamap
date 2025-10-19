@@ -34,4 +34,68 @@
         <topicref href="Products/stem_topics/internet_banking_for_corporate_clients_stem.dita"/>
         <topicref href="Products/stem_topics/internet_banking_for_private_clients.dita"/>
     </topicref>
+    <topicref href="Workspaces_to_handle_tasks/stem_topics/workspaces_to_handle_tasks_stem.dita">
+        <topicref href="Workspaces_to_handle_tasks/topics/bank_s_employee_app_ui.dita"/>
+        <topicref href="Workspaces_to_handle_tasks/topics/bank_s_outsourcer_app_ui.dita"/>
+        <topicref href="Workspaces_to_handle_tasks/topics/banks_corporte_client_app_ui.dita"/>
+        <topicref href="Workspaces_to_handle_tasks/topics/banks_private_client_app_ui.dita"/>
+        <topicref
+            href="Workspaces_to_handle_tasks/topics/user_specific_ui_with_more_than_one_role.dita"/>
+        <topicref
+            href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/role_specific_ui_section_or_page.dita">
+            <topicref
+                href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/role_specific_ui_section_list.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bank_employee_roles_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/ber_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/ber_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/ber_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/ber_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bank_outsourcer_roles_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bor_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bor_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bor_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bor_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bank_corporate_client_roles_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bcc_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bcc_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bcc_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bcc_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bank_private_client_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/pcc_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bpc_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bpc_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Role_specific_UI_section/topics/bpc_ui_3.dita"
+                />
+            </topicref>
+        </topicref>
+        <topicref href="Workspaces_to_handle_tasks/topics/task_specific_ui_widget_or_page.dita"/>
+        <topicref
+            href="Workspaces_to_handle_tasks/topics/function_or_step_specific_ui_controles.dita"/>
+    </topicref>
 </map>
