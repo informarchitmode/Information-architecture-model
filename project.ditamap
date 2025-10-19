@@ -351,4 +351,35 @@
             <topicref href="Tasks/topics/dbos_maintenance_tasks_3.dita"/>
         </topicref>
     </topicref>
+    <topicref href="Functions_or_Steps/stem_topics/functions_or_steps_stem.dita">
+        <topicref href="Functions_or_Steps/topics/function_types.dita"/>
+        <topicref href="Functions_or_Steps/topics/functions_or_steps_list.dita"/>
+        <topicref href="Functions_or_Steps/topics/admin_operation_functions.dita">
+            <topicref href="Functions_or_Steps/topics/aof_list.dita"/>
+            <topicref href="Functions_or_Steps/topics/aof_1.dita"/>
+            <topicref href="Functions_or_Steps/topics/aof_2.dita"/>
+            <topicref href="Functions_or_Steps/topics/aof_3.dita"/>
+        </topicref>
+        <topicref href="Functions_or_Steps/topics/security_operation_functions.dita">
+            <topicref href="Functions_or_Steps/topics/sof_list.dita"/>
+            <topicref href="Functions_or_Steps/topics/sof_1.dita"/>
+            <topicref href="Functions_or_Steps/topics/sof_2.dita"/>
+            <topicref href="Functions_or_Steps/topics/sof_3.dita"/>
+        </topicref>
+        <topicref href="Functions_or_Steps/topics/business_operation_functions.dita">
+            <topicref href="Functions_or_Steps/topics/bof_list.dita"/>
+            <topicref href="Functions_or_Steps/topics/bof_1.dita"/>
+            <topicref href="Functions_or_Steps/topics/bof_2.dita"/>
+            <topicref href="Functions_or_Steps/topics/bof_3.dita"/>
+        </topicref>
+        <topicref href="Functions_or_Steps/topics/communication_operation_functions.dita">
+            <topicref href="Functions_or_Steps/topics/cof_list.dita"/>
+            <topicref href="Functions_or_Steps/topics/cof_1.dita"/>
+            <topicref href="Functions_or_Steps/topics/cof_2.dita"/>
+            <topicref href="Functions_or_Steps/topics/cof_3.dita"/>
+        </topicref>
+        <topicref href="Functions_or_Steps/topics/report_and_analysis_operation_functions.dita"/>
+        <topicref href="Functions_or_Steps/topics/management_operation_functions.dita"/>
+        <topicref href="Functions_or_Steps/topics/dbos_maintenance_operation_functions.dita"/>
+    </topicref>
 </map>
