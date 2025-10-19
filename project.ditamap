@@ -273,4 +273,30 @@
             </topicref>
         </topicref>
     </topicref>
+    <topicref href="Roles/stem_topics/roles_stem.dita">
+        <topicref href="Roles/topics/bank_employee_roles.dita">
+            <topicref href="Roles/topics/ber_list.dita"/>
+            <topicref href="Roles/topics/ber_1.dita"/>
+            <topicref href="Roles/topics/ber_2.dita"/>
+            <topicref href="Roles/topics/ber_3.dita"/>
+        </topicref>
+        <topicref href="Roles/topics/bank_outsourcer_roles.dita">
+            <topicref href="Roles/topics/bor_list.dita"/>
+            <topicref href="Roles/topics/bor_1.dita"/>
+            <topicref href="Roles/topics/bor_2.dita"/>
+            <topicref href="Roles/topics/bor_3.dita"/>
+        </topicref>
+        <topicref href="Roles/topics/bank_corporate_client_roles.dita">
+            <topicref href="Roles/topics/bcc_list.dita"/>
+            <topicref href="Roles/topics/bcc_1.dita"/>
+            <topicref href="Roles/topics/bcc_2.dita"/>
+            <topicref href="Roles/topics/bcc_3.dita"/>
+        </topicref>
+        <topicref href="Roles/topics/bank_private_client_roles.dita">
+            <topicref href="Roles/topics/ppc_list.dita"/>
+            <topicref href="Roles/topics/bpc_1.dita"/>
+            <topicref href="Roles/topics/bpc_2.dita"/>
+            <topicref href="Roles/topics/bpc_3.dita"/>
+        </topicref>
+    </topicref>
 </map>
