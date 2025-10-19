@@ -299,4 +299,10 @@
             <topicref href="Roles/topics/bpc_3.dita"/>
         </topicref>
     </topicref>
+    <topicref href="Rights_to_do_Tasks/stem_topics/rights_to_do_tasks_stem.dita">
+        <topicref href="Rights_to_do_Tasks/topics/right_1.dita"/>
+        <topicref href="Rights_to_do_Tasks/topics/right_2.dita"/>
+        <topicref href="Rights_to_do_Tasks/topics/right_3.dita"/>
+        <topicref href="Rights_to_do_Tasks/topics/right_4.dita"/>
+    </topicref>
 </map>
