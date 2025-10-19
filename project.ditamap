@@ -184,6 +184,64 @@
             </topicref>
         </topicref>
         <topicref
-            href="Workspaces_to_handle_tasks/topics/function_or_step_specific_ui_controles.dita"/>
+            href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/task_specific_ui_widget_or_page.dita">
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/function_or_steps_ui_list.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/admin_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/aof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/aof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/aof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/aof_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/security_operattion_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/sof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/sof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/sof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/sof_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/business_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/bof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/bof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/bof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/bof_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/communication_operation_functions_ui.dita">
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/cof_ui_list.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/cof_ui_1.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/cof_ui_2.dita"/>
+                <topicref
+                    href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/cof_ui_3.dita"
+                />
+            </topicref>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/report_and_analysis_operation_functions_ui.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/management_operation_functions_ui.dita"/>
+            <topicref
+                href="Workspaces_to_handle_tasks/Function_or_Step_specific_UI_controls/dbos_maintenance_operation_functions_ui.dita"
+            />
+        </topicref>
     </topicref>
 </map>
