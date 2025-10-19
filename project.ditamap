@@ -305,4 +305,35 @@
         <topicref href="Rights_to_do_Tasks/topics/right_3.dita"/>
         <topicref href="Rights_to_do_Tasks/topics/right_4.dita"/>
     </topicref>
+    <topicref href="Tasks/stem_topics/tasks_stem.dita">
+        <topicref href="Tasks/topics/task_types.dita"/>
+        <topicref href="Tasks/topics/tasks_list.dita"/>
+        <topicref href="Tasks/topics/admin_tasks.dita">
+            <topicref href="Tasks/topics/admin_tasks_list.dita"/>
+            <topicref href="Tasks/topics/admin_tasks_1.dita"/>
+            <topicref href="Tasks/topics/admin_tasks_2.dita"/>
+            <topicref href="Tasks/topics/admin_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/security_tasks.dita">
+            <topicref href="Tasks/topics/security_tasks_list.dita"/>
+            <topicref href="Tasks/topics/security_tasks_1.dita"/>
+            <topicref href="Tasks/topics/security_tasks_2.dita"/>
+            <topicref href="Tasks/topics/security_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/business_tasks.dita">
+            <topicref href="Tasks/topics/business_tasks_list.dita"/>
+            <topicref href="Tasks/topics/business_tasks_1.dita"/>
+            <topicref href="Tasks/topics/business_tasks_2.dita"/>
+            <topicref href="Tasks/topics/business_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/communication_tasks.dita">
+            <topicref href="Tasks/topics/communication_tasks_list.dita"/>
+            <topicref href="Tasks/topics/communication_tasks_1.dita"/>
+            <topicref href="Tasks/topics/communication_tasks_2.dita"/>
+            <topicref href="Tasks/topics/communication_tasks_3.dita"/>
+        </topicref>
+        <topicref href="Tasks/topics/report_and_analysis_tasks.dita"/>
+        <topicref href="Tasks/topics/management_tasks.dita"/>
+        <topicref href="Tasks/topics/dbos_maintenance_tasks.dita"/>
+    </topicref>
 </map>
